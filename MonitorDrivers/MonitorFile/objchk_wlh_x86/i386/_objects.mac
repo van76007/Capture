@@ -1,0 +1,17 @@
+
+
+386_OBJECTS=\
+ $(OBJ_PATH)\$O\filemondriver.obj \
+
+
+_RES_FILE=$(OBJ_PATH)\$O\filemondriver.res
+
+
+
+# lowercased
+BASEDIR=c:\winddk\6001~1.180
+OBJECT_ROOT=c:\winddk\6001~1.180
+MAKEDIR_LOWERCASE=c:\docume~1\admini~1\dokume~1\visual~1\projects\monito~1\monito~1\monitorfile
+OBJ_PATH=c:\docume~1\admini~1\dokume~1\visual~1\projects\monito~1\monito~1\monitorfile
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0

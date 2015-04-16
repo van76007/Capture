@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MonitorClient" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAABAAAAAAAAAAAAAgAAQAAAEAgAAAAAAAEA=</HashCode>
+      <FileName>MonitorClient.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monitor" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYAARAEQAABgAACAIAIAAIAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monitor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TFTPClient" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAACgAgIgBAIQAAAEAQCACAAAQAKBgAAAgBAkCAUAg=</HashCode>
+      <FileName>TFTPClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Thread" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAiAAQAAgAAgAAAAAAAAAAAiIAAEAAAAAAAAFAA=</HashCode>
+      <FileName>Thread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Watcher" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAkEEAAAQAIAgABAAIIAAAAAyACgAAAAAACAAAAA=</HashCode>
+      <FileName>Watcher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="_FILEMONITOR_MESSAGE" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monitor.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_FILEMONITOR_SETUP" Collapsed="true">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAAAAAAAAAAAAQAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monitor.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Runnable" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Thread.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagTHREADNAME_INFO" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAACAAEAAAA=</HashCode>
+      <FileName>Thread.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="FILEMONITOR_COMMAND" Collapsed="true">
+    <Position X="3.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monitor.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FILEMONITOR_MESSAGE" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monitor.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PFILEMONITOR_MESSAGE" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monitor.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FILEMONITOR_SETUP" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monitor.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PFILEMONITOR_SETUP" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monitor.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="THREADNAME_INFO" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Thread.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="_FILEMONITOR_COMMAND" Collapsed="true">
+    <Position X="3.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAIAAAA=</HashCode>
+      <FileName>Monitor.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
